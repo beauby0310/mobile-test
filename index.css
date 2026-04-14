@@ -39,6 +39,7 @@ html, body {
 /* FOOTER */
 .footer-placeholder {
   overflow: hidden;
+  line-height: 0;
 }
 
 .footer-placeholder img {
