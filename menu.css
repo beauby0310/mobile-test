@@ -6,7 +6,6 @@
 
 /* ONE container rule ONLY */
 .container {
-  width: 100%;
   max-width: 740px;
   margin: 0 auto;
 }
