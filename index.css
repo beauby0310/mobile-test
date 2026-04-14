@@ -5,8 +5,7 @@
 }
 
 .container {
-  width: 100%;
-  max-width: 1170px; 
+  width: 1170px; 
   margin: 0 auto;
 
 /* this changes image colour */
@@ -19,13 +18,12 @@
 
 .header-placeholder img {
   width: 100%;
-  height: auto;
+  height: 100%;
   display: block;
 }
 
 .container {
-  width: 100%;
-  max-width: 1170px; 
+  width: 1170px; 
   margin: 0 auto;
 
 /* this changes image colour */
@@ -39,7 +37,7 @@
 
 .home.content img {
  width: 100%;
-  height: auto;
+  height: 100%;
   object-fit: cover;
   display: block;
 }
@@ -55,6 +53,6 @@
 
 .footer-placeholder img {
   width: 100%;
-  height: auto;
+  height: 100%;
   display: block;
 }
