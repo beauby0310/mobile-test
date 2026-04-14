@@ -4,8 +4,8 @@
   box-sizing: border-box;
 }
 
-body {
-  line-height: 0;
+html, body {
+  height: 100%;
 }
 
 .container {
